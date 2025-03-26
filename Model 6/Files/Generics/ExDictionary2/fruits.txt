@@ -1,0 +1,6 @@
+Banana,10
+Strawberry,5
+Onion,2
+Banana,20
+Pineapple,10
+Strawberry,15
